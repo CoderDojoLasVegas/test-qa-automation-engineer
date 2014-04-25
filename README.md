@@ -1,4 +1,4 @@
-test-qa-automation-engineer
+QA Automation Engineer Test
 ===========================
 
-A quick test of your QA automation engineering skills
+This test is designed to be a quick project that will show off your skills in developing automation tests for a web site.
